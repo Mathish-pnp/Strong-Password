@@ -86,16 +86,3 @@ Password complexity directly affects resistance to attacks:
 
 ---
 
-## ✅ Deliverables Checklist
-
-| Item                         | Included                |
-|------------------------------|-------------------------|
-| 3 passwords created          | ✅                      |
-| Strength test results        | ✅ Screenshots included |
-| Analysis of results          | ✅                      |
-| Best practices summary       | ✅                      |
-| Common attack methods listed | ✅                      |
-
----
-
-
