@@ -19,7 +19,7 @@ Understand what makes a password strong and evaluate it using online strength-ch
 | Password            | Complexity Level | Components Used                        |
 |---------------------|------------------|----------------------------------------|
 | `password123`       | Weak             | Lowercase, digits                      |
-| `Pa$$word2024`      | Medium           | Uppercase, lowercase, digits, symbols  |
+| `Pa$$wo2024`      | Medium           | Uppercase, lowercase, digits, symbols  |
 | `H#72c!eQ9*vZr!2p`  | Strong           | Uppercase, lowercase, digits, symbols, 16 chars |
 
 ---
@@ -34,7 +34,7 @@ Understand what makes a password strong and evaluate it using online strength-ch
 
 ---
 
-### 🟡 2. `Pa$$word2024`
+### 🟡 2. `Pa$$wo2024`
 
 - **Result:** Medium
 - **Issues:** Slightly predictable base word, decent complexity
