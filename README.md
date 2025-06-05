@@ -8,7 +8,7 @@ Understand what makes a password strong and evaluate it using online strength-ch
 
 ## 🛠 Tools Used
 
-- [Password Meter]([https://passwordmeter.com/])
+- [Password Meter](https://passwordmeter.com/)
 - [Kaspersky Password Checker](https://password.kaspersky.com/)
 - [NordPass Password Strength Tool](https://nordpass.com/password-strength-checker/)
 
